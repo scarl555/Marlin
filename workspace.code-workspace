@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Marlin_210115",
+			"path": "."
+		},
+		{
+			"name": "BIGTREETECH-TouchScreenFirmware",
+			"path": "..\\BIGTREETECH-TouchScreenFirmware"
+		}
+	],
+	"settings": {}
+}
